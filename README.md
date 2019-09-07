@@ -1,2 +1,2 @@
-# zhangwuhao
+# opencv ippicv_2019
 ippicv_2019_lnx_intel64_general_20180723
